@@ -2,6 +2,3 @@
 Recreating the Google Homepage with HTML & CSS (Flexbox)
 
 
-► Subscribe Us:
-https://www.youtube.com/codingwithelias?sub_confirmation=1
-
